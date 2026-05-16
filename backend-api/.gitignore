@@ -1,0 +1,8 @@
+node_modules/
+.env
+.env.local
+*.env
+
+# Firebase admin key
+whatnot-store-firebase-adminsdk-*.json
+whatnot-store-firebase-adminsdk-fbsvc-a6f5d7c372.json
